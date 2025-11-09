@@ -64,7 +64,7 @@ AI Model: Deployed on Railway
 
 🔗 Model source code: https://github.com/Code-Akhilsai/model
 
-https://github.com/BONASIGOVARDHAN/GenAI-CTH-project/blob/98acdc6b09d6e5564a7c1b08cc3a6b67dc161b7f/GenAI-CTH%20Project%20Documentation.pdf
+🔗 Project Documentation: https://github.com/BONASIGOVARDHAN/GenAI-CTH-project/blob/98acdc6b09d6e5564a7c1b08cc3a6b67dc161b7f/GenAI-CTH%20Project%20Documentation.pdf
 
 ### 🧾 License
 
