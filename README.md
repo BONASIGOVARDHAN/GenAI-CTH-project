@@ -65,6 +65,7 @@ AI Model: Deployed on Railway
 🔗 Model source code: https://github.com/Code-Akhilsai/model
 
 🔗 Project Documentation: https://github.com/BONASIGOVARDHAN/GenAI-CTH-project/blob/98acdc6b09d6e5564a7c1b08cc3a6b67dc161b7f/GenAI-CTH%20Project%20Documentation.pdf
+🔗 Milestone PPT: https://github.com/BONASIGOVARDHAN/GenAI-CTH-project/blob/dd4fd62047c7ae4af8df7373705bc45a5a349f62/Generative-AI-for-Cyber-Threat-Hunting-in-6G-enabled-IoT-Networks%20(milestone-2)%5B1%5D.pptx
 
 ### 🧾 License
 
